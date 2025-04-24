@@ -1,1 +1,4 @@
-# required libraries
+streamlit
+openai
+pymongo
+python-dotenv
